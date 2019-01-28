@@ -20,6 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Optomized for Iphone XS
+
 ---
 
 ## Flix Part 1
